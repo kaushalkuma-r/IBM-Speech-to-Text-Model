@@ -1,2 +1,1 @@
-# datascience
- 
+In this Machine Learning Project I made an effort to use IBM Cloud and its services to make a Machine Learning model that converts speech into text and then we can convert the language of that text to any language available provided by the Service.I used IBM Speech-to-text Service instance to create an object that converts speech into text.
